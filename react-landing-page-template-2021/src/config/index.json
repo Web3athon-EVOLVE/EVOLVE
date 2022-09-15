@@ -1,24 +1,24 @@
 {
   "company": {
     "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "logo": "/assets/images/logo.jpeg"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "About",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Sponsors",
       "href": "features"
     },
 
     {
-      "name": "Pricing",
-      "href": "pricing"
+      "name": "Team",
+      "href": "team"
     },
     {
-      "name": "About",
+      "name": "Contact us",
       "href": "about"
     }
   ],
@@ -29,119 +29,82 @@
   "mainHero": {
     "title": "Welcome to",
     "subtitle": "EVOLVE.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": " A Decentralized Educational and Finance App on the Blockchain\nUtilizing Financial Literacy, Learn & Earn & Community Pooling \n",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
+      "text": "Join the Community",
       "href": "#"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "EVOLVE",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Our Mission",
+        "description": "EVOLVE is a decentralized education and community pooling platform that uses a learn-to-earn model to reward users for building financial literacy.\nIt is designed to teach BIPOC women budgeting, net worth, financial wellness, and web3 concepts through culturally competent financial learning tools and mindset strengthening for financial well-being. \nThe user is rewarded the $EVOLVE token for completing education modules, quizzes and wellness activities. They can deposit a percentage of earned rewards into a decentralized community pool to practice building individual and community wealth through collective investing and APY. \n",
         "img": "/assets/images/female2.jpeg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "What We Stand for!",
+        "subtitle": "",
+        "description": "Educate - Wealth & Well-Being \n Vision & Optimism – Empowering Positive Mindset\nLearn – Applying Knowledge\nVantage - Strategic Advantage\nEarn - Acquiring Wealth in Web 3",
         "img": "/assets/images/female1.jpeg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Our Sponsors and Partners",
+    "subtitle": "Chain we're considering building on, features \n& why",
+    "description": "Strong Ethereum blockchain base with a loyal and vibrant ecosystem, security and openness which allows EVOLVE to trust the well-establish community and transparency for our users.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Polygon",
+        "description": "EVM compatibility is appealing for EVOLVE in order to support smart contract is in Solidity.",
+        "icon": "/assets/images/polygonLogo.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Journey to Wealth",
+        "description": "",
+        "icon": "/assets/images/journey.png"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
-      },
-      {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Disruptor Dao",
+        "description": "",
+        "icon": "/assets/images/dao.png"
       }
     ]
   },
-  "pricing": {
-    "title": "Pricing",
+  "team": {
+    "title": "Meet the Team",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
-        "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
-        ]
-      },
-      {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
-        "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
-      },
-      {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
-        ]
+        "name": "Olivia",
+        "description": "Lead & Project Manager: \u200B\nCreator |  Investor I Entrepreneur \n5+ years of experience in Private Equity in Emerging Markets\u200B\n 6+ International Development & Humanitarian Emergency Response \n",
+        "img": "/assets/images/olivia"
       }
     ]
   },
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Contact Us",
+        "href": "#"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Terms",
+        "href": "#"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Policy",
+        "href": "#"
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Cookie Setting",
+        "href": "#"
       }
     ],
     "socialMedia": {
