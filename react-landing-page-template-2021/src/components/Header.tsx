@@ -59,10 +59,10 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="#"
+                href="/_staking"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Call to action
+               Staking
               </a>
             </div>
           </nav>
