@@ -15,7 +15,7 @@
 
     {
       "name": "Team",
-      "href": "team"
+      "href": "pricing"
     },
     {
       "name": "Contact us",
@@ -28,7 +28,7 @@
   },
   "mainHero": {
     "title": "Welcome to",
-    "subtitle": "EVOLVE.",
+    "subtitle": "EVOLVE",
     "description": " A Decentralized Educational and Finance App on the Blockchain\nUtilizing Financial Literacy, Learn & Earn & Community Pooling \n",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
@@ -78,7 +78,7 @@
       }
     ]
   },
-  "team": {
+  "pricing": {
     "title": "Meet the Team",
     "items": [
       {
