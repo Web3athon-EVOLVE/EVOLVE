@@ -15,7 +15,7 @@
 
     {
       "name": "Team",
-      "href": "pricing"
+      "href": "team"
     },
     {
       "name": "Contact us",
@@ -30,7 +30,7 @@
     "title": "Welcome to",
     "subtitle": "EVOLVE",
     "description": " A Decentralized Educational and Finance App on the Blockchain\nUtilizing Financial Literacy, Learn & Earn & Community Pooling \n",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/top-image.jpeg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -78,13 +78,18 @@
       }
     ]
   },
-  "pricing": {
-    "title": "Meet the Team",
+  "team": {
+    "title": "Our Team",
     "items": [
       {
-        "name": "Olivia",
-        "description": "Lead & Project Manager: \u200B\nCreator |  Investor I Entrepreneur \n5+ years of experience in Private Equity in Emerging Markets\u200B\n 6+ International Development & Humanitarian Emergency Response \n",
-        "img": "/assets/images/olivia"
+        "title": "A plug n play template",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Make it your own!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg"
       }
     ]
   },
