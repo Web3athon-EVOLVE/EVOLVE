@@ -26,3 +26,22 @@ a:hover {
 .content ul {
   @apply my-6;
 }
+.column{
+  float: left;
+  width:25%;
+  padding: 10px;
+}
+
+.row::after{
+  content:"";
+  display: table;
+  clear:both;
+}
+.font{
+  font-size: 20px;
+  color: rgba(179, 72, 179, 0.96);
+}
+.font-2{
+  font-size: 15px;
+  color: black;
+}
