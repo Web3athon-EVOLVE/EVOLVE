@@ -6,7 +6,7 @@
 <img src="public/assets/gifs/demo.gif" width="100%" height="auto" />
 
 
-
+A Decentralized Educational and Finance App on the Blockchain Utilizing Financial Literacy, Learn & Earn & Community Pooling
 Built-in feature from Next.js:
 
 - Minify HTML & CSS
@@ -22,6 +22,7 @@ clone the repo
 cd react-landing-page-template-2021
 yarn
 yarn run start
+open on your browswer localhost:3000
 ```
 
 
