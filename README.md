@@ -2,7 +2,7 @@
 ## A Decentralized Educational and Finance App on the Blockchain Utilizing Financial Literacy, Learn & Earn & Community Pooling
 
 ![Evolve](evolve_logo.jpeg)
-## <a href="https://evolve-web3.vercel.app/"> LIVE DEMO</a>
+
 
 
 
