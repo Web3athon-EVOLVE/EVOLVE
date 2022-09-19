@@ -9,9 +9,9 @@
 
 Built-in feature from Next.js:
 
-- ☕ Minify HTML & CSS
-- 💨 Live reload
-- ✅ Cache busting
+- Minify HTML & CSS
+- Live reload
+-  Cache busting
 
 
 
