@@ -39,32 +39,32 @@ const OurTeam = () => {
                         <div className={`font-2`}>Creator</div>
                         <div className={`font-2`}>Investor | Consultant </div>
                     </div>
+                </div>
+                <div className={`row`}>
+                    <div className={`column`}>
+                        <img src={`/assets/images/shelia.png`} />
+                        <div className={`font`}>Shelia</div>
+                        <div className={`font-2`}>Creator</div>
+                        <div className={`font-2`}>Dao Founder | Ideation </div>
 
+                    </div>
+                    <div className={`column`}>
+                        <img src={`/assets/images/diania.jpeg`} />
+                        <div className={`font`}>Diana</div>
+                        <div className={`font-2`}>Fullstack Web Developer</div>
+                        <div className={`font-2`}>Blockchain Engineer </div>
+                        <div className={`font-2`}>H.E.R. DAO Contributor</div>
+                    </div>
+                    <div className={`column`}>
+                        <img src={`/assets/images/amy.jpeg`} />
+                        <div className={`font`}>Amy</div>
+                        <div className={`font-2`}>Fullstack Engineer</div>
+                        <div className={`font-2`}>Associate Technical Consultant </div>
+                    </div>
                 </div>
                 <h2>
                 <div className={`row`}>
-                    <div className={`column`}>
-                        <div className={`column`}>
-                            <img src={`/assets/images/shelia.png`} />
-                            <div className={`font`}>Evelyn</div>
-                            <div className={`font-2`}>Creator</div>
-                            <div className={`font-2`}>Dao Founder | Ideation </div>
 
-                        </div>
-                        <div className={`column`}>
-                            <img src={`/assets/images/diania.jpeg`} />
-                            <div className={`font`}>Diana</div>
-                            <div className={`font-2`}>Fullstack Web Developer</div>
-                            <div className={`font-2`}>Blockchain Engineer </div>
-                            <div className={`font-2`}>H.E.R. DAO Contributor</div>
-                        </div>
-                        <div className={`column`}>
-                            <img src={`/assets/images/amy.jpeg`} />
-                            <div className={`font`}>Amy</div>
-                            <div className={`font-2`}>Fullstack Engineer</div>
-                            <div className={`font-2`}>Associate Technical Consultant </div>
-                        </div>
-                    </div>
                 </div>
                 </h2>
             </h2>
