@@ -5,7 +5,7 @@
 
 
 
-
+Course website is located here https://github.com/Web3athon-EVOLVE/courses
 
 
 Built-in feature from Next.js:
