@@ -1,5 +1,5 @@
-# EVOLVE
-Web3athon Project
+# EVOLVE - Web3athon Project 2022
+
 ![Evolve](evolve_logo.jpeg)
 ## <a href="https://react-landing-page-template-2021.vercel.app/"> LIVE DEMO</a>
 
