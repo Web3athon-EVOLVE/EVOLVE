@@ -10,10 +10,9 @@ Course website is located at https://github.com/Web3athon-EVOLVE/courses
 
 Built-in feature from Next.js:
 
-- Minify HTML & CSS
-- Live reload
--  Cache busting
-
+- TailwindCSS
+- React
+Therefore, it can moblie friendly and user friendly/
 
 
 #### 1. Clone repo
